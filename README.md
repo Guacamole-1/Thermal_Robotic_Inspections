@@ -1,6 +1,6 @@
 # Thermal Robotic Inspection System
 
-A thermal inspection system built on a [Unitree Go2](https://www.unitree.com/go2/) quadruped robot, integrating a FLIR Lepton 3.5 radiometric thermal camera mounted on a two-axis gimbal. The operator can drive the robot, monitor a live thermal feed, and orient the camera independently — all from a single web interface over Wi-Fi, without exposing personnel to hazardous environments.
+A thermal inspection system built on a [Unitree Go2](https://www.unitree.com/go2/) quadruped robot, integrating a FLIR Lepton 3.5 radiometric thermal camera mounted on a two-axis gimbal. The operator can drive the robot, monitor a live thermal feed, and orient the camera independently, all from a single web interface over Wi-Fi, without exposing personnel to hazardous environments.
 
 Validated at a transformer substation at ISEL, where two active electrical faults were detected, with peak temperatures exceeding the measurement ceiling of a professional handheld thermal camera.
 
