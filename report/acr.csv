@@ -1,0 +1,32 @@
+WebRTC,Web Real-Time Communication
+LWIR,Long Wave Infrared
+MWIR,Medium Wave Infrared
+I/O,Input / Output
+USB,Universal Serial Bus
+API,Application Programming Interface
+SDK,Software Development Kit
+FOV,Field Of View
+UVC,USB Video Class
+SPI,Serial Peripheral Interface
+I2C,Inter-Integrated Circuit
+RPI4,Raspberry Pi 4
+V4L2,Video for Linux 2
+GPIO,General-Purpose Input/Output
+PWM,Pulse-Width Modulation
+FPV,First-Person View
+RGB,Red Green Blue
+ICE,Interactive Connectivity Establishement
+STUN,Session Traversal Utilities for NAT
+TURN,Traversal Using Relays around NAT
+DTLS,Datagram Transport Layer Security
+SRTP,Secure Real-time Transport Protocol
+SDP,Session Description Protocol
+HTTP,Hypertext Transfer Protocol
+SCTP,Stream Control Transmission Protocol
+LiDAR,Light Detection and Ranging
+IMU,Inertial Measurement Unit
+SLAM,Simultaneous Localization And Mapping
+OpenCV,Open Source Computer Vision Library
+IP,Internet Protocol
+NAT,Network Address Translation
+P2P,Peer-to-Peer
