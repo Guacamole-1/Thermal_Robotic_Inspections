@@ -1,0 +1,24 @@
+start: 2026-02-16
+end: 2026-07-30
+tasks:
+  - name: Finding Components
+    id: components
+    start: 2026-02-19
+    end: 2026-04-17
+    done: 2026-04-10
+
+  - name: Programming
+    id: programming
+    start: 2026-03-20
+    end: 2026-07-01
+  - name: Assembly onto Go2
+    id: assembly-go2
+    start: 2026-04-17
+    end: 2026-07-15
+milestones:
+  - name: Progress Report Deadline
+    date: 2026-04-21
+  - name: Final report Deadline
+    date: 2026-07-11
+  - name: Initial Report Deadline
+    date: 2026-03-03
