@@ -7,7 +7,7 @@ Validated at a transformer substation at ISEL, where two active electrical fault
 ---
 
 ## Poster
-![Poster](https://raw.githubusercontent.com/Guacamole-1/Thermal_Robotic_Inspections/main/poster/poster.png)
+![Poster](https://raw.githubusercontent.com/Guacamole-1/Thermal_Robotic_Inspections/master/poster/poster.png)
 
 > 📄 [View full poster (PDF)](https://github.com/Guacamole-1/Thermal_Robotic_Inspections/blob/main/poster/poster.pdf)
 
