@@ -3,7 +3,8 @@
 A thermal inspection system built on a [Unitree Go2](https://www.unitree.com/go2/) quadruped robot, integrating a FLIR Lepton 3.5 radiometric thermal camera mounted on a two-axis gimbal. The operator can drive the robot, monitor a live thermal feed, and orient the camera independently — all from a single web interface over Wi-Fi, without exposing personnel to hazardous environments.
 
 Validated at a transformer substation at ISEL, where two active electrical faults were detected, with peak temperatures exceeding the measurement ceiling of a professional handheld thermal camera.
-[Web Interface](https://raw.githubusercontent.com/Guacamole-1/Thermal_Robotic_Inspections/master/report/images/go2_web2.png)
+
+![Web Interface](https://raw.githubusercontent.com/Guacamole-1/Thermal_Robotic_Inspections/master/report/images/go2_web2.png)
 ---
 
 ## Poster
