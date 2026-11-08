@@ -27,7 +27,7 @@ Validated at a transformer substation at ISEL, where two active electrical fault
 
 - `report/` — Typst source and compiled PDF of the final report
 - `poster/` — Typst source and compiled PDF of the poster
-- `go2_app/` — Web interface and backend server source code (to be added)
+- `unitree_ui-thermal/` — Thermal Web interface and backend server source code (submodule)
 
 ## Built with
 
@@ -36,6 +36,7 @@ Validated at a transformer substation at ISEL, where two active electrical fault
 - [Raspberry Pi 4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) — payload computer
 - [FPV Gimbal](https://www.printables.com/model/1042622-cheap-fpv-gimbal-pantilt/comments) by Steve Eckerlein — two-axis camera mount (modified)
 - [Karlz Go2 Clip-On Skin](https://makerworld.com/en/models/2311439-karlz-unitree-go2-clip-on-skin) by Gizmo Karl — robot cover and rail system
-- [unitree_ui](https://github.com/legion1581/unitree_ui) by legion1581 — web operator interface (extended)
+- [Thermal Fork](https://github.com/Guacamole-1/unitree_ui-thermal) by Guacamole (Me) — Thermal interface expanding Unitree UI's functionality
+- [Unitree_UI](https://github.com/legion1581/unitree_ui) by legion1581 — web operator interface (extended)
 - Python · FastAPI · aiortc · OpenCV
 - TypeScript · Three.js · Vite · WebRTC
