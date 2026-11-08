@@ -4,7 +4,9 @@ A thermal inspection system built on a [Unitree Go2](https://www.unitree.com/go2
 
 Validated at a transformer substation at ISEL, where two active electrical faults were detected, with peak temperatures exceeding the measurement ceiling of a professional handheld thermal camera.
 
-![Web Interface](https://raw.githubusercontent.com/Guacamole-1/Thermal_Robotic_Inspections/master/report/images/go2_web2.png)
+(click image to watch youtube video)
+[![Video Title](https://raw.githubusercontent.com/Guacamole-1/Thermal_Robotic_Inspections/master/report/images/go2_web2.png)](https://www.youtube.com/watch?v=dLEhKUzcAI4)
+
 ---
 
 ## Poster
