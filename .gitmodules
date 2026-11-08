@@ -1,0 +1,3 @@
+[submodule "unitree_ui-thermal"]
+	path = unitree_ui-thermal
+	url = https://github.com/Guacamole-1/unitree_ui-thermal
